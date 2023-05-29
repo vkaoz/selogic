@@ -1,0 +1,2 @@
+# selogic
+Proyecto grupal Selogic
